@@ -15,5 +15,5 @@ Introduction to Deep Learning:
 Course link: https://www.btkakademi.gov.tr/portal/course/derin-ogrenmeye-giris-35507
 
 Deep Learning Algorithms with Pytorch:
-[PDF](PyTorch_ile_Derin_Öğrenme_Algoritmaları_Sertifika.pdf)
+[PDF](pytorch-deep-learning/PyTorch_ile_Derin_Öğrenme_Algoritmaları_Sertifika.pdf)
 Course Link: https://www.btkakademi.gov.tr/portal/course/pytorch-ile-derin-ogrenme-algoritmalari-44053
